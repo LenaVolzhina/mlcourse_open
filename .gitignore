@@ -93,7 +93,7 @@ ENV/
 .ropeproject
 
 # Hide solutions
-*_solution.ipynb
+# *_solution.ipynb
 
 
 # Private folders
